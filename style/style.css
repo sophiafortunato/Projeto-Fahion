@@ -1,0 +1,144 @@
+body{
+    align-content: center;
+    width: min-content;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.cabecalho{
+    background-color: #003d52;
+    padding: 10px 0px;
+}
+
+.topo{
+    align-self: center;
+}
+
+.logo{
+    margin-left: 100px;
+    margin-right: 0px;
+    margin-top: 0px;
+
+}
+
+
+.menu-lista{
+    margin: 0;
+    padding: 0;
+}
+
+.menu-lista li {
+    display: inline-block;
+    align-items: left;
+
+    margin-left: 250px;
+    margin-bottom: 0 px;
+    margin-top: 0px;
+}
+
+.menu-link{
+
+    display: inline-block;
+    align-items: right;
+    padding: 8px 8px;
+
+    text-decoration: none;
+    margin: 0;
+}
+
+a{
+    color :white;
+}
+
+a:visited{
+    color: #042e3c;
+}
+
+a:hover{
+    color: gray;
+}
+
+a:active{
+    color: gray;
+}
+
+.titulo-secao{
+    text-align: center;
+}
+
+.descricao{
+    text-align: center;
+}
+
+.galeria-primeira-foto{
+    background-color: white;
+    padding: 50px 15px 20px;
+    margin: 30px 40px;
+    box-sizing: border-box;
+    width: 270px;
+    text-align: center;
+
+ .modelo1
+}
+
+
+.galeria-segunda-foto{
+    box-sizing: border-box;
+    width: 270px;
+    text-align: center;
+ .modelo2
+}
+
+.modelo3{
+    padding: 50px 15px 20px;
+    margin: 30px 40px;
+    box-sizing: border-box;
+    width: 270px;
+}
+
+.grade-class{
+    display: grid;
+    gap: 24px;
+}
+
+.card{
+    padding: 24px;
+    background-color:#003d52;
+    text-align: left;
+    color: white;
+}
+
+.titulo-sobre{
+    font-weight: bold;
+}
+
+.descricao-sobre{
+    font-weight: lighter;
+}
+
+.mapa{
+    align-content: center;
+}
+.chamada{
+    color: #003d52;
+    text-align: center;
+}
+
+.numero{
+    color: #003d52;
+    text-align: center;
+}
+
+.rodape{
+    color: white;
+    text-align: center;
+}
+
+.rodape{
+    margin-top: 20%;
+    padding: 5px;
+    background-color: #003d52;
+
+    text-align: center;
+}
